@@ -1,2 +1,2 @@
 # Convertia
-HTTP site to converte mp4 files into mp3
+HTTP site to convert mp4 files into mp3
